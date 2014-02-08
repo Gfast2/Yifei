@@ -3,6 +3,23 @@ This project is inspired from the project "Makelangelo" from Dan Royer (marginal
 This is another drawbot. ~_~
 
 It use two NEMA23 step motors and a step motor driver board (based on TB6560) bought from ebay and a servo (the pwm signal from microcontroller control the speed of the servo rather not the position). The Microcontroller board I used is a ChipKIT UNO32. And it is really fast enough to drive the motors and servo unbeliveable fast. 
-Because of the structor, the faster the Gondola (Penholder) is moving, the stronger the motor should be.
+Because of the structor, the faster the Gondola (Penholder) is moving, the stronger the motor should be. For this point I've done a small research and made a data visualization to explain it.
+
+Folder:
+Arduino: the firmware that should be flashed to your microcontroller.
+Makelangelo G-code Sender: G-code sender that I used in this project.
+screen shot: 
+  drawing: the works from Yifei
+  design: the physical structor I made
+Documentation & Presentation: Motor movement reasearch: the explaination of the motor movements
+The working in progress parts: the small code that I tried to play with. : )
+...
+
+some video documentation:
+www.youtube.com
+
+
+Documentation is working in progress NOW! : )
+
 
 
