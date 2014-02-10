@@ -1,0 +1,10 @@
+<svg width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g>
+  <title>Ebene 1</title>
+  <path fill="none" stroke="#000000" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m0,0l200,0l0,200l-200,0l0,-200z" id="svg_3"/>
+  <path fill="none" stroke="#000000" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m200,0l200,0l0,200l-200,0l0,-200z" id="svg_3"/>
+  <path fill="none" stroke="#000000" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m0,200l200,0l0,200l-200,0l0,-200z" id="svg_3"/>
+  <path fill="none" stroke="#000000" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" d="m200,200l200,0l0,200l-200,0l0,-200z" id="svg_3"/>
+ </g>
+</svg>
