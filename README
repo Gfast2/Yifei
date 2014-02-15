@@ -6,20 +6,16 @@ It use two NEMA23 step motors and a step motor driver board (based on TB6560) bo
 Because of the structor, the faster the Gondola (Penholder) is moving, the stronger the motor should be. For this point I've done a small research and made a data visualization to explain it.
 
 Folder:
-Arduino: the firmware that should be flashed to your microcontroller.
-Makelangelo G-code Sender: G-code sender that I used in this project.
-screen shot: 
-  drawing: the works from Yifei
-  design: the physical structor I made
-Documentation & Presentation: Motor movement reasearch: the explaination of the motor movements
-The working in progress parts: the small code that I tried to play with. : )
-...
-
-some video documentation:
-www.youtube.com
+Documentation & Presentation: Contain the material that I used to presentate my works in my university and the text documentation of this project
+Drawing Data: Vector file collection that I found in internet and some converted .dxf .svg .ngc files
+G-Code explaination: G-Code language Documentation and the TB6560 missing manual that I wrote for the badly documentated step motor driver board
+Hardware: Contain the 3D laser data to be lasered for this project + TB6560 step motor driver board's original contents that saved on a CD
+Software: My software development dummp + three other projects' repo
 
 
-Documentation is working in progress NOW! : )
+Video documentation:
+http://www.youtube.com/playlist?list=PLMgXm-qLFbhTdZcYdyYKSsQKYNi-67j8x
+
 
 
 
