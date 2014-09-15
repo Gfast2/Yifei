@@ -613,7 +613,7 @@ void loop(){
 
     // do something with the command
     processCommand();
-laststep1
+//laststep1
     // reset the buffer
     sofar=0;
 
